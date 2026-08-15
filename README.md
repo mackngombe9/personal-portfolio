@@ -4,7 +4,7 @@
 
 **Student Name:** Mack Ngombe\
 **Student ID:** [2504325487]\
-**GitHub Repository:** [Enter Your Repository URL]
+**GitHub Repository:** [https://github.com/mackngombe9/personal-portfolio]
 
 ---
 
@@ -296,24 +296,10 @@ Other improvements I would make include:
 
 ---
 
-# Technical Requirements Checklist
-
-- [x] 25+ different HTML elements used
-- [x] 15+ different HTML attributes used
-- [x] Semantic HTML structure implemented
-- [x] Website works in a web browser
-- [ ] GitHub repository with all code
-- [ ] README.md file with documentation
-- [ ] Instructor added as collaborator
-- [ ] Instructor followed on GitHub
-- [ ] Google Classroom submission completed
-
----
-
 # Submission Information
 
 **Student Name:** Mack Ngombe
 
 **Student ID:** [2504325487]
 
-**GitHub Repository:** [Enter Your Repository URL]
+**GitHub Repository:** [https://github.com/mackngombe9/personal-portfolio]
