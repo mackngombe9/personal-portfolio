@@ -296,6 +296,18 @@ Other improvements I would make include:
 
 ---
 
+# Technical Requirements Chechlist
+- [X] 25+ different html elements used.
+- [x] 15+ different html attributes used.
+- [x] semantic html structure implemented.
+- [x] website works in a web browser.
+- [x] github repository with all code.
+- [x] README.md file with documentation.
+- [x] instructor added as collaborator.
+- [x] instructor followed on github.
+- [x] google classroom submission completed.
+---
+
 # Submission Information
 
 **Student Name:** Mack Ngombe
